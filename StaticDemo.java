@@ -3,11 +3,11 @@
 class Student {
 	int id;
 	String name;
-	static String college = "Awanshi";
+	static String college = "Awanthi";
 	
 	static {
 		System.out.println("Welcome Static");
-		System.out.println("Vizag");
+		System.out.println("Vzm");
 	}
 	
 	
